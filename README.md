@@ -64,7 +64,7 @@ For human ↔ AI communication, emoji-anchored hybrid notation is:
 ### 1. Install
 
 ```bash
-git clone https://github.com/[org]/emojigo
+git clone https://github.com/sstklen/emojigo
 cd emojigo
 ```
 
@@ -182,7 +182,7 @@ If you use Emojigo in research:
   author = {tkman and contributors},
   title  = {Emojigo: A Human-Writable Protocol for LLM-Native Semantic Computation},
   year   = {2026},
-  url    = {https://github.com/[org]/emojigo}
+  url    = {https://github.com/sstklen/emojigo}
 }
 ```
 

@@ -7,7 +7,7 @@
 ## Step 1: Install (30 seconds)
 
 ```bash
-git clone https://github.com/[org]/emojigo
+git clone https://github.com/sstklen/emojigo
 cd emojigo
 ```
 
